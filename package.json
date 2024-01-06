@@ -1,0 +1,19 @@
+{
+  "name": "contactrestapi",
+  "version": "1.0.0",
+  "description": "restfull api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibrahimlaiq10/contactRESTAPI.git"
+  },
+  "author": "ibrahim laiq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ibrahimlaiq10/contactRESTAPI/issues"
+  },
+  "homepage": "https://github.com/ibrahimlaiq10/contactRESTAPI#readme"
+}
